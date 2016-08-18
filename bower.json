@@ -1,0 +1,17 @@
+{
+    "name": "numans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Jovanny Lemonad"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/numans-bower.git"
+    },
+    "description": "Numans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
